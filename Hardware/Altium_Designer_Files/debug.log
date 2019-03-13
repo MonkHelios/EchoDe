@@ -1,0 +1,3 @@
+[1226/213550:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[1226/213550:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1226/213611:WARNING:backend_impl.cc(1807)] Destroying invalid entry.

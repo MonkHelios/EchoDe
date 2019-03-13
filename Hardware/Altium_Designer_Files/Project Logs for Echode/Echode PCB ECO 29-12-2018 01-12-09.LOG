@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=+12 Pin=Y1-3
+Removed Pin From Net: NetName=VCC Pin=Y1-4
+Removed Pin From Net: NetName=+12 Pin=Y2-3
+Removed Pin From Net: NetName=VCC Pin=Y2-4
+Removed Member From Class: ClassName=Echode Member=Y1
+Removed Member From Class: ClassName=Echode Member=Y2
+Added Component: Designator=845HN-1C-C(845HN-1C-C)
+Add component. Clean all parameters for all variants
+Added Component: Designator=845HN-1C-C(845HN-1C-C)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+12 Pin=845HN-1C-C-1
+Added Pin To Net: NetName=+12 Pin=845HN-1C-C-1
+Added Pin To Net: NetName=VCC Pin=845HN-1C-C-4
+Added Pin To Net: NetName=VCC Pin=845HN-1C-C-4
+Added Pin To Net: NetName=Net845HN-1C-C_2 Pin=845HN-1C-C-2
+Added Pin To Net: NetName=Net845HN-1C-C_2 Pin=D2-1
+Added Pin To Net: NetName=Net845HN-1C-C_2 Pin=Q2-1
+Added Net: Name=Net845HN-1C-C_2
+Added Pin To Net: NetName=Net845HN-1C-C_5 Pin=845HN-1C-C-5
+Added Pin To Net: NetName=Net845HN-1C-C_5 Pin=J3-1
+Added Net: Name=Net845HN-1C-C_5
+Added Member To Class: ClassName=Echode Member=Component 845HN-1C-C R1
+Added Member To Class: ClassName=Echode Member=Component 845HN-1C-C R2
+Added Room: Name=Echode

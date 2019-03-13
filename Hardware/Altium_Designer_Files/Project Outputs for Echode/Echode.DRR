@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Echode.PcbDoc   18-02-2019  21:31:39
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : Echode-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : Echode-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : Echode-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.508mm (20mil)                                           Round             7         PTH        42.60mm (1.68inch)
+T2      0.711mm (28mil)                                           Round             21        PTH        176.83mm (6.96inch)
+T3      0.9mm (35mil)                                             Round             20        PTH        121.48mm (4.78inch)
+T4      0.995mm (39mil)                                           Slot              1         PTH        2.18mm (0.09inch)
+T5      1mm (39mil)                                               Slot              2         PTH        17.42mm (0.69inch)
+T6      1.2mm (47mil)                                             Round             4         PTH        24.44mm (0.96inch)
+T7      1.3mm (51mil)                                             Round             10        PTH        79.78mm (3.14inch)
+T8      1.4mm (55mil)                                             Round             6         PTH        33.62mm (1.32inch)
+T9      2.794mm (110mil)                                          Round             4         NPTH       236.69mm (9.32inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              75
+
+Total Processing Time (hh:mm:ss) : 00:00:00

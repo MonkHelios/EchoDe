@@ -1,0 +1,14 @@
+Change Component Comment : Designator=845HN-1C-C Old Comment=R1 New Comment=
+Change Component Comment : Designator=845HN-1C-C Old Comment=R2 New Comment=
+Change Component Designator: OldDesignator=845HN-1C-C NewDesignator=X1
+Change Component Designator: OldDesignator=845HN-1C-C NewDesignator=X2
+Change Net Name : Old Net Name=Net845HN-1C-C_2 New Net Name=NetD2_1
+Change Net Name : Old Net Name=Net845HN-1C-C_5 New Net Name=NetJ3_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetD1_1 Pin=X1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=X2-5
+Added Net: Name=NetJ4_1
+Added Member To Class: ClassName=Echode Member=Component X2 

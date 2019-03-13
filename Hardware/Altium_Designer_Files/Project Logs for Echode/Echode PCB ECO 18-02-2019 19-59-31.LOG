@@ -1,0 +1,13 @@
+Change Component Comment : Designator=P? Old Comment=Header 5X2 New Comment=IO/ADC
+Change Component Designator: OldDesignator=P? NewDesignator=P5
+Added Pin To Net: NetName=GND Pin=P5-1
+Added Pin To Net: NetName=ADC Pin=P5-2
+Added Pin To Net: NetName=GP16 Pin=P5-3
+Added Pin To Net: NetName=GP14 Pin=P5-4
+Added Pin To Net: NetName=GP12 Pin=P5-5
+Added Pin To Net: NetName=GP13 Pin=P5-6
+Added Pin To Net: NetName=GP9 Pin=P5-7
+Added Pin To Net: NetName=GP10 Pin=P5-8
+Added Pin To Net: NetName=GND Pin=P5-9
+Added Pin To Net: NetName=GND Pin=P5-10
+Added Room: Name=Echode

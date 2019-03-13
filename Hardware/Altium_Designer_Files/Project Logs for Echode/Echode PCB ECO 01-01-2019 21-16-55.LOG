@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+12 Pin=J2-1A
+Removed Pin From Net: NetName=+12 Pin=J2-1B
+Removed Pin From Net: NetName=GND Pin=J2-2A
+Removed Pin From Net: NetName=GND Pin=J2-2B
+Removed Pin From Net: NetName=GND Pin=J2-3A
+Removed Pin From Net: NetName=GND Pin=J2-3B
+Added Room: Name=Echode

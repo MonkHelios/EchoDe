@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Echode.PrjPcb]
+   Generated File[Echode-RoundHoles-Plated.TXT]
+   Generated File[Echode-RoundHoles-NonPlated.TXT]
+   Generated File[Echode-SlotHoles-Plated.TXT]
+   Generated File[Echode.LDP]
+   Generated File[Echode.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 21:31:39 On 18-02-2019
